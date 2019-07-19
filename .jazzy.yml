@@ -1,0 +1,8 @@
+author: Rachaus
+author_url: https://twitter.com/ricardorachaus
+github_url: https://github.com/ricardorachaus/SecuritySwift
+root_url: https://ricardorachaus.github.io/SecuritySwift/
+module: SecuritySwift
+output: docs
+theme: fullwidth
+xcodebuild_arguments: [-workspace, 'SecuritySwift.xcworkspace', -scheme, 'SecuritySwift-iOS']
